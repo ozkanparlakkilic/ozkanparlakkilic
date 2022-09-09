@@ -4,8 +4,6 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=ozkanparlakkilic&label=Profile%20views&color=0e75b6&style=flat" alt="ozkanparlakkilic" /> </p>
 
-- 🔭 I’m currently working on Casemice Digital
-
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **prlkklc@gmail.com**
