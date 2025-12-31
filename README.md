@@ -6,7 +6,7 @@ I specialize in <b>React & Next.js</b>, admin panels, dashboards, and reusable U
 </p>
 
 <p>
-<a href="mailto:ozkanparlakkilic@gmail.com">📫 prlkklc@gmail.com</a> • 
+<a href="mailto:ozkanparlakkilic@gmail.com">📫 ozkanparlakkilic@gmail.com</a> • 
 <a href="https://linkedin.com/in/ozkan-parlakkilic">LinkedIn</a>
 </p>
 
