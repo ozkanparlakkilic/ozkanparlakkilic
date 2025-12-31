@@ -2,7 +2,7 @@
 
 <p>
 Frontend Engineer with 4+ years of experience building scalable, performance-focused web applications.
-I specialize in React & Next.js, admin panels, dashboards, and reusable UI architectures.
+I specialize in <b>React & Next.js</b>, admin panels, dashboards, and reusable UI architectures.
 </p>
 
 <p>
@@ -11,7 +11,7 @@ I specialize in React & Next.js, admin panels, dashboards, and reusable UI archi
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=ozkanparlakkilic&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ozkanparlakkilic&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <hr/>
@@ -21,46 +21,34 @@ I specialize in React & Next.js, admin panels, dashboards, and reusable UI archi
 <ul>
   <li>Build scalable frontend applications using <b>React, Next.js, TypeScript</b></li>
   <li>Develop admin panels, dashboards, and internal tools</li>
-  <li>Optimize UI performance for data-heavy components</li>
+  <li>Optimize UI performance for data-heavy tables and forms</li>
   <li>Create reusable, maintainable component architectures</li>
   <li>Integrate REST APIs and authentication flows</li>
 </ul>
 
 <hr/>
 
-<h3>🛠 Tech Stack</h3>
+<h3>👨🏻‍💻 Technologies That I Know</h3>
 
-<p>
-<b>Frontend</b><br/>
-<img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/SASS-hotpink?logo=sass&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,sass,html,css,nodejs,express,mongodb,git,github,figma,postman,vscode&perline=8" />
+  </a>
 </p>
 
-<p>
-<b>State & Tooling</b><br/>
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Webpack-20232a?logo=webpack&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=black" />
+<hr/>
+
+<h3>⚙️ GitHub Analytics</h3>
+
+<p align="center">
+  <a href="https://github.com/ozkanparlakkilic">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ozkanparlakkilic&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ozkanparlakkilic&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
-<p>
-<b>Backend (Hands-on)</b><br/>
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white" />
-</p>
-
-<p>
-<b>Tools</b><br/>
-<img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078d7?logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozkanparlakkilic&theme=react-dark&hide_border=true" />
 </p>
 
 <hr/>
@@ -72,3 +60,19 @@ I specialize in React & Next.js, admin panels, dashboards, and reusable UI archi
   <li>Focusing on performance, maintainability, and clean UI architecture</li>
   <li>Open to frontend-focused opportunities and collaborations</li>
 </ul>
+
+<hr/>
+
+<h3>🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ozkan-parlakkilic" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
+  <a href="https://github.com/ozkanparlakkilic" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+  </a>
+  <a href="mailto:prlkklc@gmail.com">
+    <img src="https://img.icons8.com/doodle/40/000000/email--v1.png"/>
+  </a>
+</p>
