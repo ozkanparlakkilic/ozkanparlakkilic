@@ -60,19 +60,3 @@ I specialize in <b>React & Next.js</b>, admin panels, dashboards, and reusable U
   <li>Focusing on performance, maintainability, and clean UI architecture</li>
   <li>Open to frontend-focused opportunities and collaborations</li>
 </ul>
-
-<hr/>
-
-<h3>🤝 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ozkan-parlakkilic" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-  </a>
-  <a href="https://github.com/ozkanparlakkilic" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
-  </a>
-  <a href="mailto:prlkklc@gmail.com">
-    <img src="https://img.icons8.com/doodle/40/000000/email--v1.png"/>
-  </a>
-</p>
